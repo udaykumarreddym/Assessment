@@ -1,0 +1,11 @@
+{
+  "total_regions": 3138,
+  "right": 184,
+  "wrong": 404,
+  "llm_error": 0,
+  "not_processed": 2550,
+  "manual_review": 2845,
+  "direct_association": 184,
+  "indirect_association": 30,
+  "no_association": 374
+}

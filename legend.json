@@ -1,0 +1,1065 @@
+{
+  "A/C": {
+    "meaning": "AIR CONDITIONING",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "ACT": {
+    "meaning": "ACOUSTICAL CEILING TILE",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "APC": {
+    "meaning": "ACOUSTICAL PANEL CEILING",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "AD": {
+    "meaning": "AREA DRAIN",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "AFC": {
+    "meaning": "ABOVE FINISHED CEILING",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "AFF": {
+    "meaning": "ABOVE FINISHED FLOOR",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "AHU": {
+    "meaning": "AIR HANDLING UNIT",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "ALUM": {
+    "meaning": "ALUMINUM",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "ANOD": {
+    "meaning": "ANODIZED",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "ARCH": {
+    "meaning": "ARCHITECT",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "@": {
+    "meaning": "AT",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "BD": {
+    "meaning": "BOARD",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "BLDG": {
+    "meaning": "BUILDING",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "BO": {
+    "meaning": "BOTTOM OF",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "C": {
+    "meaning": "CELSIUS",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "CH": {
+    "meaning": "COAT HOOK",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "CFCI": {
+    "meaning": "CONTRACTOR FURNISHED CONTRACTOR INSTALLED",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "CG": {
+    "meaning": "CORNER GUARD",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "CI": {
+    "meaning": "CONTINUOUS INSULATION",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "CJ": {
+    "meaning": "CONTROL JOINT",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "CL": {
+    "meaning": "CENTERLINE",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "CLG": {
+    "meaning": "CEILING",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "CLO": {
+    "meaning": "CLOSET",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "CLR": {
+    "meaning": "CLEAR",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "CMU": {
+    "meaning": "CONCRETE MASONRY UNIT",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "COL": {
+    "meaning": "COLUMN",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "CONC": {
+    "meaning": "CONCRETE",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "CONT": {
+    "meaning": "CONTINUOUS",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "CORR": {
+    "meaning": "CORRIDOR",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "CT": {
+    "meaning": "CERAMIC TILE",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "CTJ": {
+    "meaning": "CONSTRUCTION JOINT",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "D": {
+    "meaning": "DEEP",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "DEG": {
+    "meaning": "DEGREE",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "DEMO": {
+    "meaning": "DEMOLITION",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "DF": {
+    "meaning": "DRINKING FOUNTAIN",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "DIA": {
+    "meaning": "DIAMETER",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "DIM": {
+    "meaning": "DIMENSION",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "DN": {
+    "meaning": "DOWN",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "DS": {
+    "meaning": "DOWNSPOUT",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "DWGS": {
+    "meaning": "DRAWINGS",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "(E)": {
+    "meaning": "EXISTING",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "EA": {
+    "meaning": "EACH",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "EJ": {
+    "meaning": "EXPANSION JOINT",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "EIFS": {
+    "meaning": "EXTERIOR INSULATION AND FINISH SYSTEM",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "EL": {
+    "meaning": "ELEVATION",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "ELEC": {
+    "meaning": "ELECTRICAL",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "ELEV": {
+    "meaning": "ELEVATOR",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "EOS": {
+    "meaning": "EDGE OF SLAB",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "ERD": {
+    "meaning": "EXISTING ROOF DRAIN",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "EQ": {
+    "meaning": "EQUAL",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "EQUIP": {
+    "meaning": "EQUIPMENT",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "EWC": {
+    "meaning": "ELECTRIC WATER COOLER",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "EXIST": {
+    "meaning": "EXISTING",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "EXP": {
+    "meaning": "EXPOSED",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "EXT": {
+    "meaning": "EXTERIOR",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "F": {
+    "meaning": "FAHRENHEIT",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "FA": {
+    "meaning": "FIRE ALARM",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "FACP": {
+    "meaning": "FIRE ALARM CONTROL PANEL",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "FDC": {
+    "meaning": "FIRE DEPARTMENT CONNECTION",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "FD": {
+    "meaning": "FLOOR DRAIN",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "FEC": {
+    "meaning": "FIRE EXTINGUISHER CABINET",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "FE": {
+    "meaning": "FINISHED EDGE",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "FF": {
+    "meaning": "FINISH FACE",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "FG": {
+    "meaning": "FINISH GRADE",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "FHC": {
+    "meaning": "FIRE HOSE CABINET",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "FIN": {
+    "meaning": "FINISH",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "FLR": {
+    "meaning": "FLOOR",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "FND": {
+    "meaning": "FOUNDATION",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "FO": {
+    "meaning": "FINISHED OPENING",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "FOC": {
+    "meaning": "FACE OF CONCRETE",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "FOM": {
+    "meaning": "FACE OF MASONRY",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "FOS": {
+    "meaning": "FACE OF STUD",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "FOW": {
+    "meaning": "FACE OF WALL",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "FRG": {
+    "meaning": "FIBER REINFORCED GYPSUM",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "FSP": {
+    "meaning": "FIRE STANDPIPE",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "FT": {
+    "meaning": "FEET",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "FV": {
+    "meaning": "FIELD VERIFY",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "GA": {
+    "meaning": "GAUGE",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "GALV": {
+    "meaning": "GALVANIZED",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "GFRC": {
+    "meaning": "GLASS-FIBER-REINFORCED CONCRETE",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "GFRG": {
+    "meaning": "GLASS-FIBER-REINFORCED GYPSUM",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "GL": {
+    "meaning": "GLASS",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "GPE": {
+    "meaning": "GRADE PLANE ELEVATION",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "GWB": {
+    "meaning": "GYPSUM WALL BOARD",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "GYP": {
+    "meaning": "GYPSUM",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "H": {
+    "meaning": "HIGH",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "HB": {
+    "meaning": "HOSE BIBB",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "HDR": {
+    "meaning": "HEADER",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "HM": {
+    "meaning": "HOLLOW METAL",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "HR": {
+    "meaning": "HOUR",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "HT": {
+    "meaning": "HEIGHT",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "ID": {
+    "meaning": "INSIDE DIAMETER; INSIDE DIMENSION",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "IN": {
+    "meaning": "INCH",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "INFO": {
+    "meaning": "INFORMATION",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "INT": {
+    "meaning": "INTERIOR",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "JAN": {
+    "meaning": "JANITOR K (NOT USED)",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "LAB": {
+    "meaning": "LABORATORY",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "LAV": {
+    "meaning": "LAVATORY",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "LBS": {
+    "meaning": "POUNDS",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "LLH": {
+    "meaning": "LONG LEG HORIZONTAL",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "LLV": {
+    "meaning": "LONG LEG VERTICAL",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "MACH": {
+    "meaning": "RM MACHINE ROOM",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "MAX": {
+    "meaning": "MAXIMUM",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "MFR": {
+    "meaning": "MANUFACTURER",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "MECH": {
+    "meaning": "MECHANICAL",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "MEZZ": {
+    "meaning": "MEZZANINE",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "MIN": {
+    "meaning": "MINIMUM",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "MO": {
+    "meaning": "MASONRY OPENING",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "N/A": {
+    "meaning": "NOT APPLICABLE",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "NIC": {
+    "meaning": "NOT IN CONTRACT",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "NOM": {
+    "meaning": "NOMINAL",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "NTS": {
+    "meaning": "NOT TO SCALE",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "OC": {
+    "meaning": "ON CENTER",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "OD": {
+    "meaning": "OUTSIDE DIAMETER;OUTSIDE DIMENSION",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "OFD": {
+    "meaning": "OVERFLOW DRAIN",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "OH": {
+    "meaning": "DR OVERHEAD DOOR",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "OFCI": {
+    "meaning": "OWNER FURNISHED, CONTRACTOR INSTALLED",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "OPH": {
+    "meaning": "OPPOSITE HAND",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "OPP": {
+    "meaning": "OPPOSITE",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "OFOI": {
+    "meaning": "OWNER FURNISHED, OWNER INSTALLED",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "ORIG": {
+    "meaning": "ORIGINAL",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "P": {
+    "meaning": "LAM PLASTIC LAMINATE",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "PLAS": {
+    "meaning": "PLASTER",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "PLUMB": {
+    "meaning": "PLUMBING",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "PR": {
+    "meaning": "PAIR",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "PSI": {
+    "meaning": "POUNDS PER SQUARE INCH",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "PSF": {
+    "meaning": "POUNDS PER SQUARE FOOT",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "QT": {
+    "meaning": "QUARRY TILE",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "R": {
+    "meaning": "RISER",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "RAD": {
+    "meaning": "RADIUS",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "RCP": {
+    "meaning": "REFLECTED CEILING PLAN",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "RD": {
+    "meaning": "ROOF DRAIN",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "REF": {
+    "meaning": "REFRIDGERATOR",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "REQD": {
+    "meaning": "REQUIRED",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "REV": {
+    "meaning": "REVISION",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "RH": {
+    "meaning": "RELATIVE HUMIDITY",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "RM": {
+    "meaning": "ROOM",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "RO": {
+    "meaning": "ROUGH OPENING",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "RQD": {
+    "meaning": "REQUIRED",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "RTU": {
+    "meaning": "ROOF TOP UNIT",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "RWL": {
+    "meaning": "RAIN WATER LEADER",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "S": {
+    "meaning": "SMOKE DETECTOR",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "SAM": {
+    "meaning": "SELF ADHESIVE MEMBRANE",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "SCHED": {
+    "meaning": "SCHEDULE",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "SECT": {
+    "meaning": "SECTION",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "SIM": {
+    "meaning": "SIMILAR",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "SPEC": {
+    "meaning": "SPECIFICATION",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "SS": {
+    "meaning": "STAINLESS STEEL",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "STD": {
+    "meaning": "STANDARD",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "STRUCT": {
+    "meaning": "STRUCTURAL",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "T": {
+    "meaning": "TREAD",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "TEL": {
+    "meaning": "TELEPHONE",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "TEMP": {
+    "meaning": "TEMPORARY",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "THK": {
+    "meaning": "THICK",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "TOC": {
+    "meaning": "TOP OF CONCRETE",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "TOM": {
+    "meaning": "TOP OF MASONRY",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "TOP": {
+    "meaning": "TOP OF PARAPET",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "TOS": {
+    "meaning": "TOP OF SLAB; TOP OF STEEL",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "TOW": {
+    "meaning": "TOP OF WALL",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "TYP": {
+    "meaning": "TYPICAL",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "TO": {
+    "meaning": "TOP OF",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "UL": {
+    "meaning": "UNDERWRITER'S LABORATORIES",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "UNO": {
+    "meaning": "UNLESS NOTED OTHERWISE",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "VCT": {
+    "meaning": "VINYL COMPOSITE TILE",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "VERT": {
+    "meaning": "VERTICAL",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "VEST": {
+    "meaning": "VESTIBULE",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "VIF": {
+    "meaning": "VERIFY IN FIELD",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "W/": {
+    "meaning": "WITH",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "W/O": {
+    "meaning": "WITHOUT",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "WD": {
+    "meaning": "WOOD",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "WH": {
+    "meaning": "WALL HYDRANT",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "WP": {
+    "meaning": "WORKING POINT",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "WRB": {
+    "meaning": "WEATHER RESISTIVE BARRIER",
+    "source_sheet": "G-002.3",
+    "package": null
+  },
+  "C#": {
+    "meaning": "Cast-in-place concrete wall (# = thickness: C8=8in, C10=10in, C12=12in, C32=32in), below-grade damp-proofing, R-13 rigid insulation where exists",
+    "source_sheet": "G-501",
+    "package": "Concrete",
+    "inferred": true
+  },
+  "BR1": {
+    "meaning": "Brick veneer wall assembly - brick veneer (Westport, full-sized brick), air gap, scheduled backup wall",
+    "source_sheet": "G-501",
+    "package": "Masonry",
+    "inferred": true
+  },
+  "FB1": {
+    "meaning": "Composite siding wall assembly, run horizontally (TruExterior, nickel gap, 1x8), scheduled backup wall",
+    "source_sheet": "G-501",
+    "package": "Siding",
+    "inferred": true
+  },
+  "FB2": {
+    "meaning": "Composite siding wall assembly, run vertically (TruExterior, nickel gap, 1x8), scheduled backup wall",
+    "source_sheet": "G-501",
+    "package": "Siding",
+    "inferred": true
+  },
+  "W4": {
+    "meaning": "Interior partition: (1) layer 5/8in Type X gypsum board, 2x4 wood stud framing, (1) layer 5/8in Type X gypsum board. No fire rating.",
+    "source_sheet": "G-501",
+    "package": "Drywall",
+    "inferred": true
+  },
+  "W4G": {
+    "meaning": "Interior partition variant of W4 (2x4 wood stud, gypsum board both sides) - G suffix likely denotes a gypsum/garage-side variant, no fire rating",
+    "source_sheet": "G-501",
+    "package": "Drywall",
+    "inferred": true
+  },
+  "W40": {
+    "meaning": "Double 2x4 wood stud wall with sound attenuation blanket + air gap between stud rows, plywood sheathing/shear panel, gypsum board. 1-hour fire rating, UL L505.",
+    "source_sheet": "G-501",
+    "package": "Drywall",
+    "inferred": true
+  },
+  "WD40A": {
+    "meaning": "Double wood stud demising wall assembly, STC 54, NGC 2198 sound test - no fire rating listed",
+    "source_sheet": "G-501",
+    "package": "Drywall",
+    "inferred": true
+  },
+  "W6": {
+    "meaning": "Interior partition: (1) layer 5/8in Type X gypsum board, 2x6 wood stud framing, (1) layer 5/8in Type X gypsum board. No fire rating.",
+    "source_sheet": "G-501",
+    "package": "Drywall",
+    "inferred": true
+  },
+  "W6G": {
+    "meaning": "Interior partition variant of W6 (2x6 wood stud) with plywood sheathing added on one side, no fire rating",
+    "source_sheet": "G-501",
+    "package": "Drywall",
+    "inferred": true
+  },
+  "W6SG": {
+    "meaning": "2x6 wood stud wall with plywood sheathing (shear) both sides, no fire rating",
+    "source_sheet": "G-501",
+    "package": "Drywall",
+    "inferred": true
+  },
+  "W60A": {
+    "meaning": "Double 2x6 wood stud wall with sound attenuation blanket + air gap, plywood sheathing/shear panel, gypsum board, 1-hour fire rating, UL L505",
+    "source_sheet": "G-501",
+    "package": "Drywall",
+    "inferred": true
+  },
+  "WD42A": {
+    "meaning": "Double wood stud demising wall assembly, 2-hour fire rating (UL V324), STC 58 sound rating",
+    "source_sheet": "G-501",
+    "package": "Drywall",
+    "inferred": true
+  },
+  "XW6": {
+    "meaning": "Exterior wall: exterior finish per elevations, 1in rockwool, vapor control layer, 1/2in plywood sheathing/shear panel, batt insulation, smart vapor retarder, 2x6 wood stud, (1) layer 5/8in gypsum board. No fire rating.",
+    "source_sheet": "G-501",
+    "package": "Exterior Wall Assembly",
+    "inferred": true
+  },
+  "XW6.0": {
+    "meaning": "Exterior wall variant of XW6 - 1in rockwool, vapor control layer, plywood sheathing, 2x6 wood stud, gypsum board. No fire rating.",
+    "source_sheet": "G-501",
+    "package": "Exterior Wall Assembly",
+    "inferred": true
+  },
+  "XW6.1": {
+    "meaning": "Exterior wall variant with 5/8in glass mat sheathing added, 1in rockwool, vapor control layer, batt insulation, 2x6 wood stud, gypsum board. No fire rating.",
+    "source_sheet": "G-501",
+    "package": "Exterior Wall Assembly",
+    "inferred": true
+  },
+  "XW6.2": {
+    "meaning": "Exterior wall variant with (2) layers 5/8in gypsum board, 1in rockwool, vapor control layer, plywood sheathing, batt insulation, 2x6 wood stud. No fire rating.",
+    "source_sheet": "G-501",
+    "package": "Exterior Wall Assembly",
+    "inferred": true
+  },
+  "XW60": {
+    "meaning": "Exterior wall assembly, 1/2-hour fire rating, UL L505",
+    "source_sheet": "G-501",
+    "package": "Exterior Wall Assembly",
+    "inferred": true
+  },
+  "XW62": {
+    "meaning": "Exterior wall assembly, 2-hour fire rating, UL V324",
+    "source_sheet": "G-501",
+    "package": "Exterior Wall Assembly",
+    "inferred": true
+  },
+  "RW4": {
+    "meaning": "Roof type: asphalt shingles (GAF Timberline HDZ, cliffside), roof underlayment (high temp), 1/2in plywood sheathing, wood roof truss coordinated with structural. No fire rating.",
+    "source_sheet": "G-511",
+    "package": "Roofing",
+    "inferred": true
+  },
+  "CW4.1": {
+    "meaning": "Ceiling type, 1/2-hour fire rating (floor-ceiling): (1) layer 5/8in Type X gypsum board",
+    "source_sheet": "G-511",
+    "package": "Drywall",
+    "inferred": true
+  },
+  "CG1.11": {
+    "meaning": "Ceiling type, 1/2-hour fire rating (floor-ceiling): floor truss coordinated with structural, (1) layer 5/8in Type X gypsum board",
+    "source_sheet": "G-511",
+    "package": "Drywall",
+    "inferred": true
+  },
+  "CG1.12": {
+    "meaning": "Ceiling type, 1/2-hour fire rating (floor-ceiling): (1) layer 5/8in Type X moisture-resistant gypsum board, taped joints",
+    "source_sheet": "G-511",
+    "package": "Drywall",
+    "inferred": true
+  },
+  "CG1.13": {
+    "meaning": "Ceiling type, 1/2-hour fire rating (roof-ceiling), attic level: loose-fill insulation, vapor control layer, wood roof truss, R-10+ batt insulation, (1) layer 5/8in Type X gypsum board; total assembly must equal R-38",
+    "source_sheet": "G-511",
+    "package": "Drywall",
+    "inferred": true
+  },
+  "CG1.14": {
+    "meaning": "Ceiling type, 1/2-hour fire rating (roof-ceiling): floor truss coordinated with structural, 5/8in glass mat sheathing",
+    "source_sheet": "G-511",
+    "package": "Drywall",
+    "inferred": true
+  },
+  "FG5.1": {
+    "meaning": "Floor type (slab on grade): scheduled finish, cast-in-place concrete, vapor barrier below slab, compacted gravel sub-base",
+    "source_sheet": "G-511",
+    "package": "Concrete",
+    "inferred": true
+  },
+  "FW18.1": {
+    "meaning": "Floor type: scheduled finish, self-adhered roofing membrane, cover board, tapered rigid insulation, fluid-applied waterproofing, plywood sheathing, wood floor truss, drainage mat - no fire rating",
+    "source_sheet": "G-511",
+    "package": "Rough Carpentry",
+    "inferred": true
+  },
+  "FW18": {
+    "meaning": "Floor type, 1-hour fire rating (UL L501): scheduled finish, self-adhered membrane, plywood sheathing, wood floor trusses @ 19.2in OC, 5/8in Type X gypsum board ceiling",
+    "source_sheet": "G-511",
+    "package": "Rough Carpentry",
+    "inferred": true
+  },
+  "FW22": {
+    "meaning": "Floor type, 1/2-hour fire rating (floor-ceiling, UL L501): gypcrete, sound attenuation mat, plywood sheathing, sound batt insulation, wood floor truss, resilient channel; min STC 50",
+    "source_sheet": "G-511",
+    "package": "Rough Carpentry",
+    "inferred": true
+  },
+  "_WALL_TAG_SYSTEM": {
+    "meaning": "Wall tag format: [X]S#.# or similar. Prefix 'X' = exterior wall (if present). Letter = construction type (C=Concrete 1hr, M=Masonry 2hr, S=Steel studs 3hr, W=Wood studs 4hr/not shown). Number before decimal = structure thickness to nearest inch. Number after = fire rating. Letter in parens = top-of-wall condition modifier. Modifiers: F=Furring, G=Gyp one side, W=Wood finishes.",
+    "source_sheet": "G-501",
+    "package": null,
+    "inferred": true
+  },
+  "_ROOF_TAG_SYSTEM": {
+    "meaning": "Roof tag format: RC#.#. Prefix R = roof. Letter = construction type (C=Composite concrete 1hr, S=Steel deck 2hr, W=Wood joist/truss 3hr, P=Post-tensioned concrete 4hr, C=Concrete waffle slab/not shown). Number = structure thickness. Number after # = fire rating.",
+    "source_sheet": "G-511",
+    "package": null,
+    "inferred": true
+  },
+  "_CEILING_TAG_SYSTEM": {
+    "meaning": "Ceiling tag format: [X]CS#.##. Prefix X = exterior (as needed). Prefix C = ceiling. Letter = construction type (C=Concrete 1hr, S=Steel framing 2hr, T=Suspended track 3hr, C(H-Shaftwall) stud=4hr, W=Wood framing/not shown). Finish indicator: interior 1=gypsum board, 2=ACT, 3=wood; exterior 4=metal panel, 5=profiled metal panel, 6=EIFS.",
+    "source_sheet": "G-511",
+    "package": null,
+    "inferred": true
+  },
+  "_FLOOR_TAG_SYSTEM": {
+    "meaning": "Floor tag format: FC#.#. Prefix F = floor. Letter = construction type (C=Concrete 1hr, C/S.O.G=Concrete pad 2hr, S=Steel joist/truss 3hr, W=Wood joist/truss 4hr, D=Metal deck w/substrate/not shown). Number = structure thickness. Number after # = fire rating.",
+    "source_sheet": "G-511",
+    "package": null,
+    "inferred": true
+  }
+}
