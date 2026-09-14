@@ -76,10 +76,7 @@ results.json
       └── NONE → WRONG
       │
       ▼
-8. Manual Review Queue
-      │
-      ▼
-9. Generate Outputs
+8. Generate Outputs
 ```
 
 ---
@@ -297,7 +294,21 @@ Confidence is treated as a **review signal**, not as proof that a decision is co
 
 ---
 
-## 9. Manual Review
+## 9. Corrected Results
+
+After validation, the pipeline generates `corrected_results.json`.
+
+Regions classified as `WRONG` are removed from their corresponding bid items.
+
+If a bid item has no regions remaining, that bid item is removed.
+
+Regions that are `NOT_PROCESSED` or have an LLM error are not silently deleted and remain available for follow-up.
+
+The original region information is preserved for surviving regions, with a `validation` block added containing the audit information.
+
+---
+
+## 10. Manual Review
 
 The pipeline creates `manual_review_queue.csv` for human inspection.
 
@@ -312,20 +323,6 @@ Regions are flagged for manual review when they have:
 Manual review acts as a **human-in-the-loop quality-control step**.
 
 The current implementation does not automatically modify the LLM decision based on manual review. The manual review is used to assess uncertain results and identify cases that may require further action.
-
----
-
-## 10. Corrected Results
-
-After validation, the pipeline generates `corrected_results.json`.
-
-Regions classified as `WRONG` are removed from their corresponding bid items.
-
-If a bid item has no regions remaining, that bid item is removed.
-
-Regions that are `NOT_PROCESSED` or have an LLM error are not silently deleted and remain available for follow-up.
-
-The original region information is preserved for surviving regions, with a `validation` block added containing the audit information.
 
 ---
 
